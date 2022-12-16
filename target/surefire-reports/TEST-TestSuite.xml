@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report-3.0.xsd" version="3.0" name="TestSuite" time="10.885" tests="1" errors="0" skipped="0" failures="0">
+  <properties>
+    <property name="gopherProxySet" value="false"/>
+    <property name="awt.toolkit" value="sun.lwawt.macosx.LWCToolkit"/>
+    <property name="java.specification.version" value="11"/>
+    <property name="sun.cpu.isalist" value=""/>
+    <property name="sun.jnu.encoding" value="UTF-8"/>
+    <property name="java.class.path" value="/Users/anitharaj/MyFirstWorkSpace/Phase3Assignment/target/test-classes:/Users/anitharaj/MyFirstWorkSpace/Phase3Assignment/target/classes:/Users/anitharaj/.m2/repository/org/testng/testng/6.14.3/testng-6.14.3.jar:/Users/anitharaj/.m2/repository/com/beust/jcommander/1.72/jcommander-1.72.jar:/Users/anitharaj/.m2/repository/org/apache-extras/beanshell/bsh/2.0b6/bsh-2.0b6.jar:/Users/anitharaj/.m2/repository/io/rest-assured/rest-assured/4.3.1/rest-assured-4.3.1.jar:/Users/anitharaj/.m2/repository/org/codehaus/groovy/groovy/3.0.3/groovy-3.0.3.jar:/Users/anitharaj/.m2/repository/org/codehaus/groovy/groovy-xml/3.0.3/groovy-xml-3.0.3.jar:/Users/anitharaj/.m2/repository/org/apache/httpcomponents/httpclient/4.5.3/httpclient-4.5.3.jar:/Users/anitharaj/.m2/repository/org/apache/httpcomponents/httpcore/4.4.6/httpcore-4.4.6.jar:/Users/anitharaj/.m2/repository/commons-logging/commons-logging/1.2/commons-logging-1.2.jar:/Users/anitharaj/.m2/repository/commons-codec/commons-codec/1.9/commons-codec-1.9.jar:/Users/anitharaj/.m2/repository/org/apache/httpcomponents/httpmime/4.5.3/httpmime-4.5.3.jar:/Users/anitharaj/.m2/repository/org/hamcrest/hamcrest/2.1/hamcrest-2.1.jar:/Users/anitharaj/.m2/repository/org/ccil/cowan/tagsoup/tagsoup/1.2.1/tagsoup-1.2.1.jar:/Users/anitharaj/.m2/repository/io/rest-assured/xml-path/4.3.1/xml-path-4.3.1.jar:/Users/anitharaj/.m2/repository/org/apache/commons/commons-lang3/3.4/commons-lang3-3.4.jar:/Users/anitharaj/.m2/repository/jakarta/xml/bind/jakarta.xml.bind-api/2.3.3/jakarta.xml.bind-api-2.3.3.jar:/Users/anitharaj/.m2/repository/jakarta/activation/jakarta.activation-api/1.2.2/jakarta.activation-api-1.2.2.jar:/Users/anitharaj/.m2/repository/com/sun/xml/bind/jaxb-impl/2.3.3/jaxb-impl-2.3.3.jar:/Users/anitharaj/.m2/repository/io/rest-assured/json-path/4.3.1/json-path-4.3.1.jar:/Users/anitharaj/.m2/repository/org/codehaus/groovy/groovy-json/3.0.3/groovy-json-3.0.3.jar:/Users/anitharaj/.m2/repository/io/rest-assured/rest-assured-common/4.3.1/rest-assured-common-4.3.1.jar:/Users/anitharaj/.m2/repository/io/rest-assured/json-schema-validator/4.3.1/json-schema-validator-4.3.1.jar:/Users/anitharaj/.m2/repository/com/github/java-json-tools/json-schema-validator/2.2.10/json-schema-validator-2.2.10.jar:/Users/anitharaj/.m2/repository/com/github/java-json-tools/json-schema-core/1.2.10/json-schema-core-1.2.10.jar:/Users/anitharaj/.m2/repository/com/github/java-json-tools/jackson-coreutils/1.9/jackson-coreutils-1.9.jar:/Users/anitharaj/.m2/repository/com/fasterxml/jackson/core/jackson-databind/2.2.3/jackson-databind-2.2.3.jar:/Users/anitharaj/.m2/repository/com/fasterxml/jackson/core/jackson-annotations/2.2.3/jackson-annotations-2.2.3.jar:/Users/anitharaj/.m2/repository/com/fasterxml/jackson/core/jackson-core/2.2.3/jackson-core-2.2.3.jar:/Users/anitharaj/.m2/repository/com/google/guava/guava/16.0.1/guava-16.0.1.jar:/Users/anitharaj/.m2/repository/com/github/fge/msg-simple/1.1/msg-simple-1.1.jar:/Users/anitharaj/.m2/repository/com/github/fge/btf/1.2/btf-1.2.jar:/Users/anitharaj/.m2/repository/com/github/fge/uri-template/0.9/uri-template-0.9.jar:/Users/anitharaj/.m2/repository/org/mozilla/rhino/1.7.7.1/rhino-1.7.7.1.jar:/Users/anitharaj/.m2/repository/javax/mail/mailapi/1.4.3/mailapi-1.4.3.jar:/Users/anitharaj/.m2/repository/javax/activation/activation/1.1/activation-1.1.jar:/Users/anitharaj/.m2/repository/joda-time/joda-time/2.9.7/joda-time-2.9.7.jar:/Users/anitharaj/.m2/repository/com/googlecode/libphonenumber/libphonenumber/8.0.0/libphonenumber-8.0.0.jar:/Users/anitharaj/.m2/repository/com/google/code/findbugs/jsr305/3.0.1/jsr305-3.0.1.jar:/Users/anitharaj/.m2/repository/net/sf/jopt-simple/jopt-simple/5.0.3/jopt-simple-5.0.3.jar:/Users/anitharaj/.m2/repository/org/json/json/20210307/json-20210307.jar:"/>
+    <property name="java.vm.vendor" value="Homebrew"/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property name="java.vendor.url" value="https://github.com/Homebrew/homebrew-core/issues"/>
+    <property name="user.timezone" value="Australia/Brisbane"/>
+    <property name="java.vm.specification.version" value="11"/>
+    <property name="os.name" value="Mac OS X"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="user.country" value="AU"/>
+    <property name="sun.boot.library.path" value="/usr/local/Cellar/openjdk@11/11.0.16.1_1/libexec/openjdk.jdk/Contents/Home/lib"/>
+    <property name="sun.java.command" value="/Users/anitharaj/MyFirstWorkSpace/Phase3Assignment/target/surefire/surefirebooter1020547109809011437.jar /Users/anitharaj/MyFirstWorkSpace/Phase3Assignment/target/surefire 2022-12-16T13-49-37_870-jvmRun1 surefire13612146866161332337tmp surefire_02450428899238288441tmp"/>
+    <property name="http.nonProxyHosts" value="local|*.local|169.254/16|*.169.254/16"/>
+    <property name="jdk.debug" value="release"/>
+    <property name="surefire.test.class.path" value="/Users/anitharaj/MyFirstWorkSpace/Phase3Assignment/target/test-classes:/Users/anitharaj/MyFirstWorkSpace/Phase3Assignment/target/classes:/Users/anitharaj/.m2/repository/org/testng/testng/6.14.3/testng-6.14.3.jar:/Users/anitharaj/.m2/repository/com/beust/jcommander/1.72/jcommander-1.72.jar:/Users/anitharaj/.m2/repository/org/apache-extras/beanshell/bsh/2.0b6/bsh-2.0b6.jar:/Users/anitharaj/.m2/repository/io/rest-assured/rest-assured/4.3.1/rest-assured-4.3.1.jar:/Users/anitharaj/.m2/repository/org/codehaus/groovy/groovy/3.0.3/groovy-3.0.3.jar:/Users/anitharaj/.m2/repository/org/codehaus/groovy/groovy-xml/3.0.3/groovy-xml-3.0.3.jar:/Users/anitharaj/.m2/repository/org/apache/httpcomponents/httpclient/4.5.3/httpclient-4.5.3.jar:/Users/anitharaj/.m2/repository/org/apache/httpcomponents/httpcore/4.4.6/httpcore-4.4.6.jar:/Users/anitharaj/.m2/repository/commons-logging/commons-logging/1.2/commons-logging-1.2.jar:/Users/anitharaj/.m2/repository/commons-codec/commons-codec/1.9/commons-codec-1.9.jar:/Users/anitharaj/.m2/repository/org/apache/httpcomponents/httpmime/4.5.3/httpmime-4.5.3.jar:/Users/anitharaj/.m2/repository/org/hamcrest/hamcrest/2.1/hamcrest-2.1.jar:/Users/anitharaj/.m2/repository/org/ccil/cowan/tagsoup/tagsoup/1.2.1/tagsoup-1.2.1.jar:/Users/anitharaj/.m2/repository/io/rest-assured/xml-path/4.3.1/xml-path-4.3.1.jar:/Users/anitharaj/.m2/repository/org/apache/commons/commons-lang3/3.4/commons-lang3-3.4.jar:/Users/anitharaj/.m2/repository/jakarta/xml/bind/jakarta.xml.bind-api/2.3.3/jakarta.xml.bind-api-2.3.3.jar:/Users/anitharaj/.m2/repository/jakarta/activation/jakarta.activation-api/1.2.2/jakarta.activation-api-1.2.2.jar:/Users/anitharaj/.m2/repository/com/sun/xml/bind/jaxb-impl/2.3.3/jaxb-impl-2.3.3.jar:/Users/anitharaj/.m2/repository/io/rest-assured/json-path/4.3.1/json-path-4.3.1.jar:/Users/anitharaj/.m2/repository/org/codehaus/groovy/groovy-json/3.0.3/groovy-json-3.0.3.jar:/Users/anitharaj/.m2/repository/io/rest-assured/rest-assured-common/4.3.1/rest-assured-common-4.3.1.jar:/Users/anitharaj/.m2/repository/io/rest-assured/json-schema-validator/4.3.1/json-schema-validator-4.3.1.jar:/Users/anitharaj/.m2/repository/com/github/java-json-tools/json-schema-validator/2.2.10/json-schema-validator-2.2.10.jar:/Users/anitharaj/.m2/repository/com/github/java-json-tools/json-schema-core/1.2.10/json-schema-core-1.2.10.jar:/Users/anitharaj/.m2/repository/com/github/java-json-tools/jackson-coreutils/1.9/jackson-coreutils-1.9.jar:/Users/anitharaj/.m2/repository/com/fasterxml/jackson/core/jackson-databind/2.2.3/jackson-databind-2.2.3.jar:/Users/anitharaj/.m2/repository/com/fasterxml/jackson/core/jackson-annotations/2.2.3/jackson-annotations-2.2.3.jar:/Users/anitharaj/.m2/repository/com/fasterxml/jackson/core/jackson-core/2.2.3/jackson-core-2.2.3.jar:/Users/anitharaj/.m2/repository/com/google/guava/guava/16.0.1/guava-16.0.1.jar:/Users/anitharaj/.m2/repository/com/github/fge/msg-simple/1.1/msg-simple-1.1.jar:/Users/anitharaj/.m2/repository/com/github/fge/btf/1.2/btf-1.2.jar:/Users/anitharaj/.m2/repository/com/github/fge/uri-template/0.9/uri-template-0.9.jar:/Users/anitharaj/.m2/repository/org/mozilla/rhino/1.7.7.1/rhino-1.7.7.1.jar:/Users/anitharaj/.m2/repository/javax/mail/mailapi/1.4.3/mailapi-1.4.3.jar:/Users/anitharaj/.m2/repository/javax/activation/activation/1.1/activation-1.1.jar:/Users/anitharaj/.m2/repository/joda-time/joda-time/2.9.7/joda-time-2.9.7.jar:/Users/anitharaj/.m2/repository/com/googlecode/libphonenumber/libphonenumber/8.0.0/libphonenumber-8.0.0.jar:/Users/anitharaj/.m2/repository/com/google/code/findbugs/jsr305/3.0.1/jsr305-3.0.1.jar:/Users/anitharaj/.m2/repository/net/sf/jopt-simple/jopt-simple/5.0.3/jopt-simple-5.0.3.jar:/Users/anitharaj/.m2/repository/org/json/json/20210307/json-20210307.jar:"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="user.home" value="/Users/anitharaj"/>
+    <property name="user.language" value="en"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.version.date" value="2022-08-12"/>
+    <property name="java.home" value="/usr/local/Cellar/openjdk@11/11.0.16.1_1/libexec/openjdk.jdk/Contents/Home"/>
+    <property name="file.separator" value="/"/>
+    <property name="basedir" value="/Users/anitharaj/MyFirstWorkSpace/Phase3Assignment"/>
+    <property name="java.vm.compressedOopsMode" value="Zero based"/>
+    <property name="line.separator" value="&#10;"/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.awt.graphicsenv" value="sun.awt.CGraphicsEnvironment"/>
+    <property name="surefire.real.class.path" value="/Users/anitharaj/MyFirstWorkSpace/Phase3Assignment/target/surefire/surefirebooter1020547109809011437.jar"/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="ftp.nonProxyHosts" value="local|*.local|169.254/16|*.169.254/16"/>
+    <property name="java.runtime.version" value="11.0.16.1+0"/>
+    <property name="user.name" value="anitharaj"/>
+    <property name="path.separator" value=":"/>
+    <property name="os.version" value="10.15.7"/>
+    <property name="java.runtime.name" value="OpenJDK Runtime Environment"/>
+    <property name="file.encoding" value="UTF-8"/>
+    <property name="java.vm.name" value="OpenJDK 64-Bit Server VM"/>
+    <property name="java.vendor.version" value="Homebrew"/>
+    <property name="localRepository" value="/Users/anitharaj/.m2/repository"/>
+    <property name="java.vendor.url.bug" value="https://github.com/Homebrew/homebrew-core/issues"/>
+    <property name="java.io.tmpdir" value="/var/folders/lc/nw2rt7gj2cndk0k4k7x5b2w40000gn/T/"/>
+    <property name="java.version" value="11.0.16.1"/>
+    <property name="user.dir" value="/Users/anitharaj/MyFirstWorkSpace/Phase3Assignment"/>
+    <property name="os.arch" value="x86_64"/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="java.awt.printerjob" value="sun.lwawt.macosx.CPrinterJob"/>
+    <property name="sun.os.patch.level" value="unknown"/>
+    <property name="java.library.path" value="/Users/anitharaj/Library/Java/Extensions:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java:."/>
+    <property name="java.vm.info" value="mixed mode"/>
+    <property name="java.vendor" value="Homebrew"/>
+    <property name="java.vm.version" value="11.0.16.1+0"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeBig"/>
+    <property name="java.class.version" value="55.0"/>
+    <property name="socksNonProxyHosts" value="local|*.local|169.254/16|*.169.254/16"/>
+  </properties>
+  <testcase name="endToEndTest" classname="com.simplilearn.Phase3Assignment.EndToEndTest" time="9.338">
+    <system-out><![CDATA[[TestNGContentHandler] [WARN] It is strongly recommended to add "<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >" at the top of your file, otherwise TestNG may fail or not work as expected.
+Get All Employees
+ Validating status code 200
+Creating new Employee 
+ Validating status code 201
+ Employee with Id : 10 created Successfully
+{
+  "name": "John",
+  "salary": 8000,
+  "id": 10
+}
+Get Single Employee with ID 10
+ Validating status code 200
+ Name of Employee to Verify : John
+Updating the employee name with ID 10
+ Validating status code 200
+Get Single Employee with ID 10
+ Validating status code 200
+ Name of Employee to Verify : Smith
+Deleting the employee with ID 10
+ Validating status code 200
+Get Single Employee with ID 10
+ Validating status code 404
+Get All Employees
+ Validating data does not contain the deleted employee
+****End To End Test Completed****
+]]></system-out>
+  </testcase>
+</testsuite>

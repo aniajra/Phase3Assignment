@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="10020" started-at="2022-12-16T03:47:48Z" finished-at="2022-12-16T03:47:58Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="10020" started-at="2022-12-16T03:47:48Z" finished-at="2022-12-16T03:47:58Z">
+      <class name="com.simplilearn.Phase3Assignment.EndToEndTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.simplilearn.Phase3Assignment.EndToEndTest@2c34f934]" name="setUp" is-config="true" duration-ms="373" started-at="2022-12-16T03:47:48Z" finished-at="2022-12-16T03:47:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="endToEndTest()[pri:0, instance:com.simplilearn.Phase3Assignment.EndToEndTest@2c34f934]" name="endToEndTest" duration-ms="9634" started-at="2022-12-16T03:47:49Z" finished-at="2022-12-16T03:47:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endToEndTest -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.simplilearn.Phase3Assignment.EndToEndTest@2c34f934]" name="setUp" is-config="true" duration-ms="0" started-at="2022-12-16T03:47:49Z" finished-at="2022-12-16T03:47:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+      </class> <!-- com.simplilearn.Phase3Assignment.EndToEndTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
